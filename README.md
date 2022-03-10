@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Champis32
 - 👀 I’m interested in lök
 - 🌱 I’m currently learning lök
-- 💞️ I’m looking to collaborate on lök
+- 💞️ I’m looking to collaborate on agents of egg
 - 📫 How to reach me, lök
 
 <!---
